@@ -1,7 +1,7 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * LogonPage
+ * Created by widea9928 on 17/04/2018
+ * Designed to check for passwords of acceptable length then suggest a slightly better one.
  */
 
 package Check;
